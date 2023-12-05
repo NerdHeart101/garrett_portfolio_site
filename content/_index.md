@@ -63,10 +63,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: STEM Outreach Progran Lead Assistant
-          company: TTU - Whitacre College of Engineering
+          company: Whitacre College of Engineering
           company_url: https://www.depts.ttu.edu/coe/
           company_logo: org-gc
-          location: Lubbock, Texas
+          location: Texas
           date_start: '2022-11-01'
           date_end: ''
           description: |2-
@@ -76,12 +76,12 @@ sections:
               * Modelling
               * Deploying
         - title: STEM Outreach Program Assistant
-          company: TTU - Whitacre College of Engineering
+          company: Whitacre College of Engineering
           company_url: https://www.depts.ttu.edu/coe/
           company_logo: org-x
-          location: Lubbock, Texas
+          location: Texas
           date_start: '2020-08-01'
-          date_end: '2022-11-31'
+          date_end: '2022-10-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
