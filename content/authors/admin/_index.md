@@ -1,37 +1,39 @@
 ---
 # Display name
-title: 吳健雄
+title: Garrett Smith
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Garrett Smith
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Garrett
+last_name: Smith
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: STEM Outreach Program Lead Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Whitacre College of Engineering STEM Outreach
+    url: https://www.depts.ttu.edu/coe/stem/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Student passionate about robotics, STEM Education, Computer Science, and User Experience. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Instructional Design
+  - Robotics
+  - Game Based Learning
+  - User Experience
+  - Computer Science
 
 # Education to show in About widget
 education:
