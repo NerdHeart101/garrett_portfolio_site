@@ -92,16 +92,16 @@ social:
     link: mailto:garrett.smith@ttu.edu
   - icon: instagram
     icon_pack: fab
-    link: www.instagram.com/garrett_steam
+    link: https://www.instagram.com/garrett_steam
   - icon: twitter
     icon_pack: fab
-    link: https://www.twitter.com/roboraiderg
+    link: https://www.twitter.com/garrett_steam
     label: Follow me on Twitter
     display:
       header: true
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/garrettsteam
+    link: https://www.linkedin.com/in/garrettsteam
  
 
 # Highlight the author in author lists? (true/false)
