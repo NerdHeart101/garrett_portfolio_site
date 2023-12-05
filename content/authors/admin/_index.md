@@ -3,7 +3,7 @@
 title: Garrett Smith
 
 # Name pronunciation (optional)
-name_pronunciation: Garrett Smith
+# name_pronunciation: Garrett Smith
 
 # Full name (for SEO)
 first_name: Garrett
