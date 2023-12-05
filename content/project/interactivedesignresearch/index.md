@@ -1,9 +1,9 @@
 ---
-title: Parent App Design Mockup
-summary: A design mockup of a application deisgned to make parental controls easier and more user friendly on mobile devices.
+title: Interactive vs Static Instructional Content Poster
+summary: A poster I made to show my research results on interactive vs statics learning content. Made in Adobe Design.
 tags:
   - Visual Design
-  - Computer Science
+  - Instructional Design
   - User Experience
 date: '2016-04-27T00:00:00Z'
 

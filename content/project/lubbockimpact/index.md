@@ -1,6 +1,6 @@
 ---
-title: Parent App Design Mockup
-summary: A design mockup of a application deisgned to make parental controls easier and more user friendly on mobile devices.
+title: Lubbock Impact Donation Page Redesign
+summary: A redesign made of the Lubbock Impact Dontation page. Made with Adobe XD. 
 tags:
   - Visual Design
   - Computer Science
