@@ -108,5 +108,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Garrett Smith is a technical communication student with a passion for writing, STEM/STEAM, instructional development, mobile application development, and immersive content! Garrett's main interest includes researching and developing interactive, immersive instructional content to make learning better and more memorable for all those that are involved!
 {style="text-align: justify;"}
