@@ -129,10 +129,19 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Robotics
+          tag: Robotics
+        - name: Computer Science
+          tag: Computer Science
+        - name: User Experience
+        - tag: User Experience
+        - name: Visual Design
+          tag: Visual Design
+        - name: Instructional Development
+          tag: Instructional Development
+        - name: Marketing
+          tag: Marketing
+        
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
