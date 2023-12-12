@@ -77,7 +77,7 @@ sections:
           location: Texas
           date_start: '2020-08-01'
           date_end: '2022-10-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: I worked as an assistant for the Texas Tech College Of Engineering STEAM Outreach & Engagement department. Supporting the program's projects and activities. 
     design:
       columns: '2'
   - block: collection
