@@ -77,7 +77,40 @@ sections:
           location: Texas
           date_start: '2020-08-01'
           date_end: '2022-10-31'
-          description: I worked as an assistant for the Texas Tech College Of Engineering STEAM Outreach & Engagement department. Supporting the program's projects and activities. 
+          description: I worked as an assistant for the Texas Tech College Of Engineering STEAM Outreach & Engagement department. Supporting the program's projects and activities.
+        - title: Campus Technician
+          company: Lubbock-Cooper ISD
+          company_url: https://www.lcisd.net
+          company_logo: ''
+          location: Texas
+          date_start: '2020-01-01'
+          date_end: '2020-08-01'
+          description: My job was to setup, manage, troubleshoot, and fix technology issues and devices on a campus level.
+        - title: Mobile Device Management Technician
+          company: Lubbock-Cooper ISD
+          company_url: https://www.lcisd.net
+          company_logo: ''
+          location: Texas
+          date_start: '2019-01-01'
+          date_end: '2020-01-01'
+          description: My job was to setup, manage, troubleshoot, and fix technology issues and devices on a campus level.
+        - title: Campus Technician
+          company: Lubbock-Cooper ISD
+          company_url: https://www.lcisd.net
+          company_logo: ''
+          location: Texas
+          date_start: '2018-06-01'
+          date_end: '2019-01-01'
+          description: My job was to setup, manage, troubleshoot, and fix technology issues and devices on a campus level.
+        - title: Student Techniciam
+          company: Lubbock-Cooper ISD
+          company_url: https://www.lcisd.net
+          company_logo: ''
+          location: Texas
+          date_start: '2016-05-01'
+          date_end: '2018-05-01'
+          description: First IT job, troubleshooting computers and other devices.
+      
     design:
       columns: '2'
   - block: collection
