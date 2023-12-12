@@ -102,7 +102,7 @@ sections:
           date_start: '2018-06-01'
           date_end: '2019-01-01'
           description: My job was to setup, manage, troubleshoot, and fix technology issues and devices on a campus level.
-        - title: Student Techniciam
+        - title: Student Technician
           company: Lubbock-Cooper ISD
           company_url: https://www.lcisd.net
           company_logo: ''
