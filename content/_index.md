@@ -65,7 +65,7 @@ sections:
         - title: STEM Outreach Progran Lead Assistant
           company: Whitacre College of Engineering
           company_url: https://www.depts.ttu.edu/coe/
-          company_logo: tech_logo
+          company_logo: ttulogo
           location: Texas
           date_start: '2022-11-01'
           date_end: ''
@@ -73,7 +73,7 @@ sections:
         - title: STEM Outreach Program Assistant
           company: Whitacre College of Engineering
           company_url: https://www.depts.ttu.edu/coe/
-          company_logo: tech_logo
+          company_logo: ttulogo
           location: Texas
           date_start: '2020-08-01'
           date_end: '2022-10-31'
