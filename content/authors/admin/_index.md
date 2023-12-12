@@ -47,39 +47,39 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: HTML5
         description: ''
-        percent: 80
-        icon: python
+        percent: 95
+        icon: html5
         icon_pack: fab
-      - name: Data Science
+      - name: CSS
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+        percent: 85
+        icon: css3
+        icon_pack: fab
+      - name: Java Programming
         description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
+        percent: 70
+        icon: java
+        icon_pack: fab
+  - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Teaching
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 95
+        icon: chalkboard
         icon_pack: fas
-      - name: Cats
+      - name: Communication
         description: ''
         percent: 100
-        icon: cat
+        icon: comment
         icon_pack: fas
-      - name: Photography
+      - name: Project Management
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: diagram-project
         icon_pack: fas
 
 # Social/Academic Networking
